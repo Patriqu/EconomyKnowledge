@@ -2,10 +2,15 @@
 
 [Bankier.pl](http://bankier.pl)  
 [pl.investing.com](http://pl.investing.com)  
+[TVN24 Biznes i Świat](http://tvn24bis.pl)  
 
 [The Economist](http://economist.com)  
 [Bloomberg](http://bloomberg.com)  
 [Economic Times - India Times](https://economictimes.indiatimes.com)  
+
+### Free Online Broadcasts  
+
+[Bloomberg Global News](https://www.youtube.com/watch?v=dp8PhLsUcFE)  
 
 ### Stock Simulators  
 
