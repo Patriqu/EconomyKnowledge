@@ -26,3 +26,8 @@
 ### Advisors  
 
 [zarabiamy.pl - Piotr Bralczyk Niezależny doradca finansowy, Otwarte Fundusze Inwestycyjne](http://zarabiajmy.pl/)  
+
+### Makler  
+
+[najlepszekonto.pl - jak wybrać konto maklerskie](https://www.najlepszekonto.pl/jak-wybrac-konto-maklerskie)  
+[Michał Stopka - jakie biuro maklerskie najlepsze](https://www.michalstopka.pl/jakie-biuro-maklerskie-najlepsze-db-makler-019-prowizji-wszystkie-piec-szkolen-online-dla-kazdego-konkurs-szkolenie-stacjonarne-5-rozmow-skype/)  
