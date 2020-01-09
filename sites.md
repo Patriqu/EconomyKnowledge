@@ -3,6 +3,7 @@
 [Bankier.pl](http://bankier.pl)  
 [pl.investing.com](http://pl.investing.com)  
 [TVN24 Biznes i Świat](http://tvn24bis.pl)  
+[StockWatch PL](https://www.stockwatch.pl/)  
 
 [The Economist](http://economist.com)  
 [Bloomberg](http://bloomberg.com)  
