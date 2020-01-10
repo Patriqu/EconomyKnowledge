@@ -14,7 +14,7 @@
 [The Economist](http://economist.com)  
 [Bloomberg](http://bloomberg.com)  
 
-[Parkiet PL](https://www.parkiet.com/)  
+[Parkiet PL](https://www.parkiet.com/) (semi-paywall)  
 [Puls Biznesu](http://pb.pl)  
 
 ### Free Online Broadcasts  
