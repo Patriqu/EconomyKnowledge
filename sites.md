@@ -8,10 +8,14 @@
 [StockWatch PL](https://www.stockwatch.pl/)  
 [pl.investing.com](http://pl.investing.com)  
 
+[Economic Times - India Times](https://economictimes.indiatimes.com)  
+
 ##### *** Paywall ***  
 [The Economist](http://economist.com)  
 [Bloomberg](http://bloomberg.com)  
-[Economic Times - India Times](https://economictimes.indiatimes.com)  
+
+[Parkiet PL](https://www.parkiet.com/)  
+[Puls Biznesu](http://pb.pl)  
 
 ### Free Online Broadcasts  
 
