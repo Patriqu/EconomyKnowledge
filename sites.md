@@ -2,9 +2,11 @@
 
 [Bankier.pl](http://bankier.pl)  
 [Money.pl](https://www.money.pl/)  
-[pl.investing.com](http://pl.investing.com)  
 [TVN24 Biznes i Świat](http://tvn24bis.pl)  
+
+[Stooq.pl](https://stooq.pl/)  
 [StockWatch PL](https://www.stockwatch.pl/)  
+[pl.investing.com](http://pl.investing.com)  
 
 [The Economist](http://economist.com)  
 [Bloomberg](http://bloomberg.com)  
