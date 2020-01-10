@@ -8,6 +8,7 @@
 [StockWatch PL](https://www.stockwatch.pl/)  
 [pl.investing.com](http://pl.investing.com)  
 
+##### *** Paywall ***  
 [The Economist](http://economist.com)  
 [Bloomberg](http://bloomberg.com)  
 [Economic Times - India Times](https://economictimes.indiatimes.com)  
