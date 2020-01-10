@@ -7,6 +7,7 @@
 [Stooq.pl](https://stooq.pl/)  
 [StockWatch PL](https://www.stockwatch.pl/)  
 [pl.investing.com](http://pl.investing.com)  
+[analizy.pl](https://www.analizy.pl/)  
 
 [Economic Times - India Times](https://economictimes.indiatimes.com)  
 
