@@ -1,6 +1,11 @@
 ### Economy Portals 
 
+##### *** Free ***  
+
+#### Polish  
+
 [Bankier.pl](http://bankier.pl)  
+[PRNews.pl](https://prnews.pl/)  
 [Money.pl](https://www.money.pl/)  
 [TVN24 Biznes i Świat](http://tvn24bis.pl)  
 
@@ -9,9 +14,13 @@
 [pl.investing.com](http://pl.investing.com)  
 [analizy.pl](https://www.analizy.pl/)  
 
+#### English  
+
+[Reuters](https://www.reuters.com/)  
 [Economic Times - India Times](https://economictimes.indiatimes.com)  
 
 ##### *** Paywall ***  
+
 [The Economist](http://economist.com)  
 [Bloomberg](http://bloomberg.com)  
 
