@@ -13,5 +13,6 @@
 ### Afera korupcyjna CBA 2019  
 
 [Prokurator w finansach CBA (bankier - 2020-01-22)](https://www.bankier.pl/wiadomosc/Prokurator-w-finansach-CBA-7807726.html)  
+[Piotr Pogonowski odchodzi ze stanowiska szefa ABW (bankier - 2020-01-22)](https://www.bankier.pl/wiadomosc/Piotr-Pogonowski-odchodzi-ze-stanowiska-szefa-ABW-7808183.html)  
 
 ### Frankowcy
