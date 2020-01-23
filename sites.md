@@ -19,6 +19,8 @@
 [Reuters](https://www.reuters.com/)  
 [Economic Times - India Times](https://economictimes.indiatimes.com)  
 
+[gamesindustry.biz](https://www.gamesindustry.biz/)  
+
 ##### *** Paywall ***  
 
 [The Economist](http://economist.com)  
