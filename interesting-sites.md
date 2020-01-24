@@ -1,17 +1,17 @@
 ## Polish
 
-#### Energetyka  
+### Energetyka  
 
-#### Elektronika  
+### Elektronika  
 
-#### Bankowość  
+### Bankowość  
 
-prnews.pl
+[prnews.pl](prnews.pl)  
 
-#### Motoryzacja  
+### Motoryzacja  
 
-moto
+[moto.bankier.pl](https://www.bankier.pl/moto/)  
 
-#### Nieruchomości  
+### Nieruchomości  
 
 [otodom.pl](https://www.otodom.pl/)  
