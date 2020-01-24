@@ -2,6 +2,8 @@
 
 ### Energetyka  
 
+[Wysokie Napięcie](https://wysokienapiecie.pl/)  
+
 ### Elektronika  
 
 ### Bankowość  
